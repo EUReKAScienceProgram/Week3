@@ -1,4 +1,4 @@
-# EUReKA Science Program: Tech Camp Week 1
+# EUReKA Science Program: Tech Camp Week 3
 
 Hello EUReKA Campers! 
 
